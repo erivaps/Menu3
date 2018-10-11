@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="txtEntrada">Entrada</string>
+    <string name="txtSegundo">Segundo</string>
+    <string name="txtEntrada1">Ocopa</string>
+    <string name="txtEntrada2">Sopa</string>
+    <string name="txtEntrada3">Ensalada</string>
+    <string name="txtSegundo1">Aji Gallina</string>
+    <string name="txtSegundo2">Seco Pollo</string>
+    <string name="txtSegundo3">Tallarines</string>
+    <string name="txtBtnOrder">Ordenar</string>
+    <string name="txtNoSelect">Ordenar</string>
+</resources>
